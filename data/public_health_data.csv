@@ -1,0 +1,13 @@
+Country,Region,Year,LifeExpectancy,GDP_per_Capita,Healthcare_Spend_Pct,Population
+United Kingdom,Europe,2023,81.2,46200,11.3,67700000
+Germany,Europe,2023,81.0,48700,12.7,83800000
+France,Europe,2023,82.3,42500,12.1,68000000
+United States,North America,2023,77.5,76300,16.6,335000000
+Canada,North America,2023,82.6,52000,11.2,40000000
+Japan,Asia-Pacific,2023,84.6,33800,11.5,124500000
+South Korea,Asia-Pacific,2023,83.6,32400,9.7,51700000
+Australia,Asia-Pacific,2023,83.2,65000,10.2,26000000
+Brazil,South America,2023,72.8,8900,9.5,214000000
+Kenya,Africa,2023,62.7,2100,4.6,54000000
+India,Asia-Pacific,2023,67.2,2400,3.3,1428000000
+Norway,Europe,2023,83.2,106000,10.1,5500000

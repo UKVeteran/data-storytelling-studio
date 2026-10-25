@@ -1,0 +1,11 @@
+/* Custom styling for Data Storytelling Studio */
+.stApp {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.stMetric {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    border-left: 4px solid #1e88e5;
+}
